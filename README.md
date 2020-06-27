@@ -13,6 +13,7 @@ For this project, you will be working to understand the results of an A/B test r
 ## Part I - Probabilities
 
 Calculation of conversion rates per Hypothesis scenario (without and with treatment page).
+
 Outcome: A minor 1.3% **lower** conversion rate of the new treatment page suggests that there is NOT sufficient evidence to say that the new treatment page leads to **more** conversions.
 
 
